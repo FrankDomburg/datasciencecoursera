@@ -34,3 +34,23 @@ install.packages("naam pakket") - Om een pakket te installeren
 install.packages(c("pakket1","pakket2")) - Meerdere pakketten tegelijk  
 library(naam pakket) - Om het pakket beschikbaar te draaien, *geen* string!  
 [end]
+
+#Data
+Descriptive - Beschrijven van een data set  
+Exploratory - Relaties vinden die je niet kent  
+Inferential - Met een kleine sample iets over een grotere populatie zeggen  
+Predictive - Met waarden voor de ene object iets zeggen over een ander object  
+Causal - Wat gebeurd er met de waarden van een variabele, als je andere variabelen veranderd (vaak beschreven in gemiddeldes)  
+Mechanistic - De exacte veranderingen in variabelen begrijpen die veranderingen in andere objecten veranderen  
+
+*Correlatie is geen relatie!*  
+
+Data zijn waarden van kwalitatieve of kwantitatieve variabelen, die horen bij een set items  
+
+Set items - de populatie waarin je geïnteresseerd bent  
+Variabelen - De meting of de karakteristiek van een item  
+Kwantitaitef - Meting op een continue schaal  
+Kwalitatief - Attribuut  
+
+*Het belangrijkste ding is de vraag*
+
